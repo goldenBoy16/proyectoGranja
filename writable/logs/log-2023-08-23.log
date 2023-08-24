@@ -1,0 +1,159 @@
+CRITICAL - 2023-08-23 04:35:35 --> Invalid file: "cabecera.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('cabecera.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('cabecera', [], true)
+ 3 APPPATH\Controllers\administrador.php(13): view('cabecera')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Administrador->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Administrador))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-23 04:36:28 --> Invalid file: "cabecera.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('cabecera.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('cabecera', [], true)
+ 3 APPPATH\Controllers\administrador.php(13): view('cabecera')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Administrador->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Administrador))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-23 04:36:34 --> Invalid file: "cabecera.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('cabecera.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('cabecera', [], true)
+ 3 APPPATH\Controllers\administrador.php(13): view('cabecera')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Administrador->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Administrador))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-23 04:38:52 --> Invalid file: "cabecera.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('cabecera.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('cabecera', [], true)
+ 3 APPPATH\Controllers\administrador.php(13): view('cabecera')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Administrador->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Administrador))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-23 04:39:43 --> Invalid file: "cabecera.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('cabecera.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('cabecera', [], true)
+ 3 APPPATH\Controllers\administrador.php(13): view('cabecera')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Administrador->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Administrador))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-23 04:39:45 --> Invalid file: "cabecera.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('cabecera.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('cabecera', [], true)
+ 3 APPPATH\Controllers\administrador.php(13): view('cabecera')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Administrador->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Administrador))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-23 04:40:15 --> Invalid file: "inc/cabecera.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('inc/cabecera.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('inc/cabecera', [], true)
+ 3 APPPATH\Controllers\administrador.php(13): view('inc/cabecera')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Administrador->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Administrador))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-23 04:41:07 --> Invalid file: "inc/cabecera.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('inc/cabecera.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('inc/cabecera', [], true)
+ 3 APPPATH\Controllers\administrador.php(13): view('inc/cabecera')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Administrador->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Administrador))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-23 04:44:13 --> Invalid file: "inc/cabecera.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('inc/cabecera.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('inc/cabecera', [], true)
+ 3 APPPATH\Controllers\administrador.php(13): view('inc/cabecera')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Administrador->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Administrador))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-23 04:44:14 --> Invalid file: "inc/cabecera.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('inc/cabecera.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('inc/cabecera', [], true)
+ 3 APPPATH\Controllers\administrador.php(13): view('inc/cabecera')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Administrador->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Administrador))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-23 04:44:41 --> Invalid file: "inc/menu_Lateral.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('inc/menu_Lateral.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('inc/menu_Lateral', [], true)
+ 3 APPPATH\Controllers\administrador.php(14): view('inc/menu_Lateral')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Administrador->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Administrador))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-23 04:45:08 --> Undefined property: CodeIgniter\View\View::$session
+in APPPATH\Views\administrador\inc\menu_Superior.php on line 11.
+ 1 APPPATH\Views\administrador\inc\menu_Superior.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$session', 'C:\\xampp\\htdocs\\proyectofinal\\app\\Views\\administrador\\inc\\menu_Superior.php', 11)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\proyectofinal\\app\\Views\\administrador\\inc\\menu_Superior.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('administrador/inc/menu_Superior', [], true)
+ 5 APPPATH\Controllers\administrador.php(15): view('administrador/inc/menu_Superior')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Administrador->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Administrador))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-23 04:51:42 --> Undefined property: CodeIgniter\View\View::$session
+in APPPATH\Views\administrador\inc\menu_Superior.php on line 11.
+ 1 APPPATH\Views\administrador\inc\menu_Superior.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$session', 'C:\\xampp\\htdocs\\proyectofinal\\app\\Views\\administrador\\inc\\menu_Superior.php', 11)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\proyectofinal\\app\\Views\\administrador\\inc\\menu_Superior.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('administrador/inc/menu_Superior', [], true)
+ 5 APPPATH\Controllers\administrador.php(11): view('administrador/inc/menu_Superior')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Administrador->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Administrador))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-23 04:51:44 --> Undefined property: CodeIgniter\View\View::$session
+in APPPATH\Views\administrador\inc\menu_Superior.php on line 11.
+ 1 APPPATH\Views\administrador\inc\menu_Superior.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$session', 'C:\\xampp\\htdocs\\proyectofinal\\app\\Views\\administrador\\inc\\menu_Superior.php', 11)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\proyectofinal\\app\\Views\\administrador\\inc\\menu_Superior.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('administrador/inc/menu_Superior', [], true)
+ 5 APPPATH\Controllers\administrador.php(11): view('administrador/inc/menu_Superior')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Administrador->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Administrador))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-23 04:59:43 --> Undefined property: App\Controllers\Administrador::$session
+in APPPATH\Controllers\administrador.php on line 9.
+ 1 APPPATH\Controllers\administrador.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Administrador::$session', 'C:\\xampp\\htdocs\\proyectofinal\\app\\Controllers\\administrador.php', 9)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Administrador->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Administrador))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-23 05:00:01 --> Undefined property: CodeIgniter\View\View::$session
+in APPPATH\Views\administrador\inc\menu_Superior.php on line 11.
+ 1 APPPATH\Views\administrador\inc\menu_Superior.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$session', 'C:\\xampp\\htdocs\\proyectofinal\\app\\Views\\administrador\\inc\\menu_Superior.php', 11)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\proyectofinal\\app\\Views\\administrador\\inc\\menu_Superior.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('administrador/inc/menu_Superior', [], true)
+ 5 APPPATH\Controllers\administrador.php(11): view('administrador/inc/menu_Superior')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Administrador->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Administrador))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-23 05:01:00 --> Invalid file: "administrador/administrador/principal.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('administrador/administrador/principal.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('administrador/administrador/principal', [], true)
+ 3 APPPATH\Controllers\administrador.php(12): view('administrador/administrador/principal')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Administrador->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Administrador))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
